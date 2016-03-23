@@ -1,0 +1,7 @@
+{
+	name: "scriptRunner",
+	source: [
+        "main.js"
+    ],
+    style: []
+}
